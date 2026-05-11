@@ -212,4 +212,4 @@ Cette solution permet aux organisations de :
 👨‍💻 Auteur
 Zoubair Baladi,
 Master en Systèmes et Télécommunications,
-Passionné d'Ingénierie des Données et d'Analyse des Données
+Passionné d'Ingénierie des Données et d'Analyse des Données"# Analyse-de-la-Performance-Financi-re-PL-" 
