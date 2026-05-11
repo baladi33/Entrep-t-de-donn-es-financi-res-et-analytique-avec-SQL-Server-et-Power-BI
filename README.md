@@ -213,3 +213,4 @@ Cette solution permet aux organisations de :
 Zoubair Baladi,
 Master en Systèmes et Télécommunications,
 Passionné d'Ingénierie des Données et d'Analyse des Données"# Analyse-de-la-Performance-Financi-re-PL-" 
+"# Analyse-de-la-Performance-Financi-re-PL-" 
